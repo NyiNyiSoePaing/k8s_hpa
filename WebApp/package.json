@@ -1,0 +1,10 @@
+{
+  "name": "WebApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prom-client": "^13.1.0"
+  }
+}
