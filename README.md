@@ -7,7 +7,7 @@
  -->
 
 
-[![Video Preview](Recording.png)](https://drive.google.com/uc?export=preview&id=1f00_WZc9WM1bxu_1EhrHMPpQw5gT‑q30)
+[![Video Preview](Recording.png)](https://drive.google.com/file/d/1f00_WZc9WM1bxu_1EhrHMPpQw5gT-q30/view?usp=sharing)
 
 
 ## 1. Create Namespaces in Kubernetes
