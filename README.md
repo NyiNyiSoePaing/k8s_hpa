@@ -1,3 +1,10 @@
+## Recording
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/NyiNyiSoePaing/k8s_hpa/main/Recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 1. Create Namespaces in Kubernetes
 - Create `demo` and `monitoring` namespaces
 ```
