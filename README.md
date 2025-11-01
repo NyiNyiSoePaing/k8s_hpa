@@ -1,8 +1,13 @@
 ## Recording
-<video width="640" controls>
+<!-- <video width="640" controls>
   <source src="https://raw.githubusercontent.com/NyiNyiSoePaing/k8s_hpa/main/Recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+ -->
+
+
+[![Video Preview](Recording.png)](https://drive.google.com/uc?export=preview&id=1f00_WZc9WM1bxu_1EhrHMPpQw5gT‑q30)
 
 
 ## 1. Create Namespaces in Kubernetes
